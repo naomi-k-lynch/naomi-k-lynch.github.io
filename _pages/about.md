@@ -21,7 +21,7 @@ My senior year I pivoted to work as a research intern at the [Rhode Island Resil
 
 After graduating, I spent 2 years at UCSF working at their [Eating Disorders Program](https://eatingdisorders.ucsf.edu/) as a clinical research coordinator with the intention of pursuing a PhD in psychology afterward. After 2 years of database management, analytics projects with team members, and clinic data collection, and with a lot of amazing mentorship (specifically Drs. Sasha Gorrell, Erin Accurso, and Erin Reilly), I decided the best next step for me would be a graduate degree in data science. Which brings me to Penn!
 
-More Personal Interests
+Other Interests
 ======
 * New restaurant exploration
 * Bad reality television
