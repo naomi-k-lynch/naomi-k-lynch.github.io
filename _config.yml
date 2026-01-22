@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Naomi Lynch"
   pronouns         : "she/her"  
-  bio              : "@ The Intersection of Psychology & Data Science"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "At the Intersection of Psychology & Data Science"
+  #location         : "Earth"
+  employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "nlynch1@seas.upenn.edu" 
 
