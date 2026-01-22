@@ -131,6 +131,11 @@ body,
   background: var(--accent-terracotta);
 }
 
+/* Hide dark mode toggle */
+.greedy-nav__toggle_dark {
+  display: none !important;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6,
 .page__title {
@@ -272,7 +277,8 @@ a:focus {
   height: 4px;
   background: linear-gradient(90deg, var(--accent-sage) 0%, var(--accent-terracotta) 50%, var(--accent-dark-brown) 100%);
   border-radius: 2px;
-  margin-bottom: 2rem;
+  margin: -2em -2em 2rem -2em;
+  width: calc(100% + 4em);
 }
 
 /* Subtle background texture */
@@ -327,11 +333,19 @@ html {
   background-color: transparent;
 }
 
+.masthead__menu {
+  background-color: transparent;
+}
+
 .site-title {
   color: #faf6f0;
 }
 
 .site-title:hover {
+  color: var(--accent-cream);
+}
+
+.site-subtitle {
   color: var(--accent-cream);
 }
 
