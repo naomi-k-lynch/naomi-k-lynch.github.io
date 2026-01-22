@@ -23,7 +23,7 @@ repository               : "naomi-k-lynch/naomi-k-lynch.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "headshot_smile.jpg"
   name             : "Naomi Lynch"
   pronouns         : "she/her"  
   bio              : "Psychology & Data Science"
