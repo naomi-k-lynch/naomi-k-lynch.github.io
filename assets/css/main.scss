@@ -41,3 +41,197 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Custom Styling - Warm & Playful Academic Theme
+   ========================================================================== */
+
+/* Main background - soft warm cream */
+body {
+  background-color: #faf6f0 !important;
+}
+
+/* Content wrapper - subtle off-white for contrast */
+.page__content,
+.archive,
+.sidebar {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(129, 93, 64, 0.08);
+}
+
+/* Header styling with warm accents */
+.masthead {
+  background-color: #818D5D !important;
+  border-bottom: 3px solid #9D4920;
+}
+
+.masthead a {
+  color: #faf6f0 !important;
+}
+
+.masthead a:hover {
+  color: #D6BC90 !important;
+}
+
+/* Profile image - rounded with subtle border */
+.author__avatar img {
+  border-radius: 50% !important;
+  border: 4px solid #818D5D;
+  box-shadow: 0 4px 12px rgba(129, 141, 93, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.author__avatar img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(129, 141, 93, 0.35);
+}
+
+/* Headings with accent color */
+h1, h2, h3, h4, h5, h6 {
+  color: #51180C !important;
+}
+
+h2 {
+  border-bottom: 2px solid #818D5D;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Links with terracotta accent */
+a {
+  color: #9D4920 !important;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #51180C !important;
+}
+
+/* Sidebar links and social icons */
+.author__urls a {
+  color: #51180C !important;
+  transition: all 0.2s ease;
+}
+
+.author__urls a:hover {
+  color: #9D4920 !important;
+  transform: translateX(4px);
+}
+
+/* Social icons with fun hover effects */
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas {
+  color: #818D5D;
+  transition: all 0.3s ease;
+}
+
+.author__urls a:hover .fa,
+.author__urls a:hover .fab,
+.author__urls a:hover .fas {
+  color: #9D4920;
+  transform: scale(1.15);
+}
+
+/* Navigation items */
+.greedy-nav a {
+  color: #faf6f0 !important;
+  transition: all 0.2s ease;
+}
+
+.greedy-nav a:hover {
+  background-color: rgba(214, 188, 144, 0.2);
+}
+
+/* Buttons and interactive elements */
+.btn {
+  background-color: #818D5D !important;
+  color: #faf6f0 !important;
+  border: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #9D4920 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(157, 73, 32, 0.3);
+}
+
+/* List styling */
+ul, ol {
+  color: #333;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Subtle decorative elements */
+.page__content::before {
+  content: "";
+  display: block;
+  height: 4px;
+  background: linear-gradient(90deg, #818D5D 0%, #9D4920 50%, #51180C 100%);
+  border-radius: 2px;
+  margin-bottom: 2rem;
+}
+
+/* Footer styling */
+.page__footer {
+  background-color: #51180C !important;
+  color: #D6BC90 !important;
+}
+
+.page__footer a {
+  color: #D6BC90 !important;
+}
+
+.page__footer a:hover {
+  color: #faf6f0 !important;
+}
+
+/* Archive items (if you have blog posts or portfolio items) */
+.archive__item {
+  border-radius: 8px;
+  padding: 1rem;
+  transition: all 0.3s ease;
+}
+
+.archive__item:hover {
+  background-color: #faf6f0;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(129, 141, 93, 0.15);
+}
+
+/* Optional: Add subtle texture or pattern */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(circle at 20% 80%, rgba(129, 141, 93, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(157, 73, 32, 0.03) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background-color: #818D5D;
+  color: #faf6f0;
+}
+
+::-moz-selection {
+  background-color: #818D5D;
+  color: #faf6f0;
+}
