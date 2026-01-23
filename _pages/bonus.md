@@ -57,16 +57,16 @@ A List of Philly Restaurants I Love + Recommend
 
 This is in no particular order. For the sake of those interested, I want to keep this list diverse:
 
-1. Kalaya - Southern Thai in Fishtown; my go-to for any celebration; I first went in 2021 (before all the hype) at their old location and yes it's that good.
-2. Ambrosia - Italian in Fitler Square; cozy and warm, non-intimidating and intimate; incredible gnocchi (I think about it often); grab yourself an espresso martini.
-3. Khyber Pass - Pub in Old City; very relaxed with a fun beer selection that rotates; surprisingly good vegetarian/vegan options; awesome po boys of the month(!!!).
-4. Circles - Takeout Thai in Northern Liberties; what I'll probably order for Monday night football, homey and delicious; do NOT confuse this for their other location.
-5. The Dandelion - British Pub in Rittenhouse; live out your English fantasy; fish and chips and fun apps; I quite like it for brunch.
-6. Butcher & Singer - Steakhouse in Rittenhouse-ish; wonderful Hollywood atmosphere; banging raw bar, appetizers (shoutout broccolini), dessert, and of course, steak.
-7. Suraya - Lebanese in Fishtown; incredible pita and mezze; pastries are the best I've had in a long time; beautifully designed space; you're welcome.
-8. Hikari - Sushi in Northern Liberties; casual and lowkey, always dependable; good-quality fish and fun specialty rolls; if you can, get a crispy rice.
-9. China House - Takeout Chinese in Northern Liberties; my old reliable; if you need something greasy and yummy look no further; all the classics.
-10. Chubby Cattle - Hot Pot in Chinatown; it's unlimited hotpot, no further explanation needed; walk off your food with a stroll around Chinatown.
+1. **Kalaya** - Southern Thai in Fishtown; my go-to for any celebration; I first went in 2021 (before all the hype) at their old location and yes it's that good.
+2. **Ambrosia** - Italian in Fitler Square; cozy and warm, non-intimidating and intimate; incredible gnocchi (I think about it often); grab yourself an espresso martini.
+3. **Khyber Pass** - Pub in Old City; very relaxed with a fun beer selection that rotates; surprisingly good vegetarian/vegan options; awesome po boys of the month(!!!).
+4. **Circles** - 'Casual' Thai in Northern Liberties; what I'll probably order for Monday night football, homey and delicious; do NOT confuse this for their other location.
+5. **The Dandelion** - British Pub in Rittenhouse; live out your English fantasy; fish and chips and fun apps; I quite like it for brunch.
+6. **Butcher & Singer** - Steakhouse in Rittenhouse-ish; wonderful Hollywood atmosphere; banging raw bar, appetizers (shoutout broccolini), dessert, and of course, steak.
+7. **Suraya** - Lebanese in Fishtown; incredible pita and mezze; pastries are the best I've had in a long time; beautifully designed space; you're welcome.
+8. **Hikari Sushi** - Sushi in Northern Liberties; casual and lowkey, always dependable; good-quality fish and fun specialty rolls; if you can, get a crispy rice.
+9. **China House** - Takeout Chinese in Northern Liberties; my old reliable on Spring Garden; if you need something greasy and yummy look no further; all the classics.
+10. **Chubby Cattle** - Hot Pot in Chinatown; it's unlimited hotpot, no further explanation needed; walk off your food with a stroll around Chinatown.
 
 For more, please contact me directly. This is the stuff I live for.
 
