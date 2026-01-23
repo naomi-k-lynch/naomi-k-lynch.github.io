@@ -59,7 +59,7 @@ This is in no particular order. For the sake of those interested, I want to keep
 
 1. **Kalaya** - Southern Thai in Fishtown; my go-to for any celebration; I first went in 2021 (before all the hype) at their old location and yes it's that good.
 2. **Ambrosia** - Italian in Fitler Square; cozy and warm, non-intimidating and intimate; incredible gnocchi (I think about it often); grab yourself an espresso martini.
-3. **Khyber Pass** - Pub in Old City; very relaxed with a fun beer selection that rotates; surprisingly good vegetarian/vegan options; awesome po boys of the month(!!!).
+3. **Khyber Pass** - New Orleans-inspired Pub in Old City; very relaxed and a bit grungy with a fun beer selection that rotates; very good vegetarian/vegan options; awesome po' boys of the month, every month.
 4. **Circles** - 'Casual' Thai in Northern Liberties; what I'll probably order for Monday night football, homey and delicious; do NOT confuse this for their other location.
 5. **The Dandelion** - British Pub in Rittenhouse; live out your English fantasy; fish and chips and fun apps; I quite like it for brunch.
 6. **Butcher & Singer** - Steakhouse in Rittenhouse-ish; wonderful Hollywood atmosphere; banging raw bar, appetizers (shoutout broccolini), dessert, and of course, steak.
