@@ -6,6 +6,138 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="cloud-container">
+  <div class="sun"></div>
+  <div class="cloud cloud1"></div>
+  <div class="cloud cloud2"></div>
+  <div class="cloud cloud3"></div>
+  <div class="cloud cloud4"></div>
+</div>
+
+<style>
+.cloud-container {
+  width: 100%;
+  height: 120px;
+  background: linear-gradient(to bottom, #87CEEB 0%, #E0F6FF 100%);
+  position: relative;
+  overflow: hidden;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+.cloud {
+  position: absolute;
+  background: white;
+  border-radius: 100px;
+  opacity: 0.9;
+}
+.cloud::before, .cloud::after {
+  content: '';
+  position: absolute;
+  background: white;
+  border-radius: 100px;
+}
+.cloud1 {
+  width: 100px;
+  height: 40px;
+  top: 20px;
+  animation: float1 20s infinite linear;
+}
+.cloud1::before {
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  left: 10px;
+}
+.cloud1::after {
+  width: 60px;
+  height: 40px;
+  top: -15px;
+  right: 10px;
+}
+.cloud2 {
+  width: 80px;
+  height: 35px;
+  top: 60px;
+  animation: float2 25s infinite linear;
+  animation-delay: -5s;
+}
+.cloud2::before {
+  width: 40px;
+  height: 40px;
+  top: -20px;
+  left: 15px;
+}
+.cloud2::after {
+  width: 50px;
+  height: 35px;
+  top: -12px;
+  right: 8px;
+}
+.cloud3 {
+  width: 60px;
+  height: 25px;
+  top: 35px;
+  animation: float3 30s infinite linear;
+  animation-delay: -15s;
+}
+.cloud3::before {
+  width: 30px;
+  height: 30px;
+  top: -15px;
+  left: 10px;
+}
+.cloud3::after {
+  width: 35px;
+  height: 25px;
+  top: -10px;
+  right: 5px;
+}
+.cloud4 {
+  width: 70px;
+  height: 30px;
+  top: 15px;
+  animation: float4 22s infinite linear;
+  animation-delay: -10s;
+}
+.cloud4::before {
+  width: 35px;
+  height: 35px;
+  top: -18px;
+  left: 12px;
+}
+.cloud4::after {
+  width: 40px;
+  height: 30px;
+  top: -12px;
+  right: 8px;
+}
+@keyframes float1 {
+  from { left: -120px; }
+  to { left: 100%; }
+}
+@keyframes float2 {
+  from { left: -100px; }
+  to { left: 100%; }
+}
+@keyframes float3 {
+  from { left: -80px; }
+  to { left: 100%; }
+}
+@keyframes float4 {
+  from { left: -90px; }
+  to { left: 100%; }
+}
+.sun {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  background: #FFD700;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+}
+</style>
 
 About Me
 ------
