@@ -24,7 +24,7 @@ After graduating, I spent 2 years at UCSF working at their [Eating Disorders Pro
 Other Interests
 ======
 * New restaurant exploration
-* Bad reality television
 * The Eagles, of course
+* Bad reality television
 * Yoga & pilates
 * Baking 🍪
