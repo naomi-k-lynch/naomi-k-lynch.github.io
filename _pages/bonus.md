@@ -33,12 +33,6 @@ Photos I've deemed important enough to share online. Guest appearances made by m
 }
 </style>
 
-<div class="photo-gallery">
-  <img src="/images/cat.jpeg" alt="The lovely Maracuya">
-  <img src="/images/meal.jpeg" alt="Suraya pastry basket, if you know you know">
-  <img src="/images/thing.jpeg" alt="A sneaky picture of my family in Ecuador">
-</div>
-
 <script>
 function openLightbox(src) {
   const lightbox = document.createElement('div');
