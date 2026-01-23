@@ -8,7 +8,7 @@ author_profile: true
 Photo Gallery
 ------
 
-Photos I've deemed important enough to share online. Guest appearances made by my wonderful cat, Mara, something at least semi-intellectual, a recent meal I really loved, and a little thing that's made me happy. And yes, this does get updated periodically.
+Photos I've deemed important enough to share online. Guest appearances made by my wonderful cat, Mara, a recent meal I really loved, and a little thing that's made me happy. And yes, this does get updated periodically.
 
 <style>
 .photo-gallery {
@@ -34,8 +34,7 @@ Photos I've deemed important enough to share online. Guest appearances made by m
 </style>
 
 <div class="photo-gallery">
-  <img src="/images/cat.jpeg" alt="Description 1">
-  <img src="/images/smart.jpeg" alt="Description 2">
-  <img src="/images/meal.jpeg" alt="Description 3">
-  <img src="/images/thing.jpeg" alt="Description 4">
+  <img src="/images/cat.jpeg" alt="The lovely Maracuya">
+  <img src="/images/meal.jpeg" alt="Suraya pastry basket, if you know you know">
+  <img src="/images/thing.jpeg" alt="A sneaky picture of my family in Ecuador">
 </div>
