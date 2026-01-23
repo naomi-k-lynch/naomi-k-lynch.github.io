@@ -49,18 +49,18 @@ redirect_from:
   box-shadow: 0 0 15px rgba(255, 255, 255, 0.8);
   z-index: 2;
 }
-.neuron.input1 { top: 25px; left: 12%; }
-.neuron.input2 { top: 55px; left: 12%; }
-.neuron.input3 { top: 85px; left: 12%; }
-.neuron.hidden1-1 { top: 15px; left: 35%; }
-.neuron.hidden1-2 { top: 42px; left: 35%; }
-.neuron.hidden1-3 { top: 69px; left: 35%; }
-.neuron.hidden1-4 { top: 96px; left: 35%; }
-.neuron.hidden2-1 { top: 21px; left: 60%; }
-.neuron.hidden2-2 { top: 51px; left: 60%; }
-.neuron.hidden2-3 { top: 81px; left: 60%; }
-.neuron.output1 { top: 39px; left: 83%; }
-.neuron.output2 { top: 69px; left: 83%; }
+.neuron.input1 { top: 20px; left: 12%; }
+.neuron.input2 { top: 50px; left: 12%; }
+.neuron.input3 { top: 80px; left: 12%; }
+.neuron.hidden1-1 { top: 12px; left: 35%; }
+.neuron.hidden1-2 { top: 37px; left: 35%; }
+.neuron.hidden1-3 { top: 62px; left: 35%; }
+.neuron.hidden1-4 { top: 87px; left: 35%; }
+.neuron.hidden2-1 { top: 18px; left: 60%; }
+.neuron.hidden2-2 { top: 48px; left: 60%; }
+.neuron.hidden2-3 { top: 78px; left: 60%; }
+.neuron.output1 { top: 35px; left: 83%; }
+.neuron.output2 { top: 65px; left: 83%; }
 .neuron {
   animation: neuron-pulse 3s ease-in-out infinite;
 }
@@ -101,59 +101,52 @@ redirect_from:
 .signal4 { animation: travel4 3s ease-in-out infinite 1.5s; }
 .signal5 { animation: travel5 3s ease-in-out infinite 2s; }
 @keyframes travel1 {
-  0% { cx: 12%; cy: 30px; opacity: 0; }
+  0% { cx: 12%; cy: 25px; opacity: 0; }
   10% { opacity: 1; }
-  30% { cx: 35%; cy: 21px; }
-  50% { cx: 60%; cy: 27px; }
-  70% { cx: 83%; cy: 45px; }
+  30% { cx: 35%; cy: 18px; }
+  50% { cx: 60%; cy: 24px; }
+  70% { cx: 83%; cy: 41px; }
   90% { opacity: 1; }
-  100% { cx: 83%; cy: 45px; opacity: 0; }
+  100% { cx: 83%; cy: 41px; opacity: 0; }
 }
 @keyframes travel2 {
-  0% { cx: 12%; cy: 60px; opacity: 0; }
+  0% { cx: 12%; cy: 55px; opacity: 0; }
   10% { opacity: 1; }
-  30% { cx: 35%; cy: 48px; }
-  50% { cx: 60%; cy: 57px; }
-  70% { cx: 83%; cy: 75px; }
+  30% { cx: 35%; cy: 43px; }
+  50% { cx: 60%; cy: 54px; }
+  70% { cx: 83%; cy: 71px; }
   90% { opacity: 1; }
-  100% { cx: 83%; cy: 75px; opacity: 0; }
+  100% { cx: 83%; cy: 71px; opacity: 0; }
 }
 @keyframes travel3 {
-  0% { cx: 12%; cy: 90px; opacity: 0; }
+  0% { cx: 12%; cy: 85px; opacity: 0; }
   10% { opacity: 1; }
-  30% { cx: 35%; cy: 75px; }
-  50% { cx: 60%; cy: 87px; }
-  70% { cx: 83%; cy: 75px; }
+  30% { cx: 35%; cy: 68px; }
+  50% { cx: 60%; cy: 84px; }
+  70% { cx: 83%; cy: 71px; }
   90% { opacity: 1; }
-  100% { cx: 83%; cy: 75px; opacity: 0; }
+  100% { cx: 83%; cy: 71px; opacity: 0; }
 }
 @keyframes travel4 {
-  0% { cx: 12%; cy: 24px; opacity: 0; }
+  0% { cx: 12%; cy: 20px; opacity: 0; }
   10% { opacity: 1; }
-  30% { cx: 35%; cy: 42px; }
-  50% { cx: 60%; cy: 51px; }
-  70% { cx: 83%; cy: 45px; }
+  30% { cx: 35%; cy: 37px; }
+  50% { cx: 60%; cy: 48px; }
+  70% { cx: 83%; cy: 41px; }
   90% { opacity: 1; }
-  100% { cx: 83%; cy: 45px; opacity: 0; }
+  100% { cx: 83%; cy: 41px; opacity: 0; }
 }
 @keyframes travel5 {
-  0% { cx: 12%; cy: 54px; opacity: 0; }
+  0% { cx: 12%; cy: 50px; opacity: 0; }
   10% { opacity: 1; }
-  30% { cx: 35%; cy: 69px; }
-  50% { cx: 60%; cy: 81px; }
-  70% { cx: 83%; cy: 75px; }
+  30% { cx: 35%; cy: 62px; }
+  50% { cx: 60%; cy: 78px; }
+  70% { cx: 83%; cy: 71px; }
   90% { opacity: 1; }
-  100% { cx: 83%; cy: 75px; opacity: 0; }
+  100% { cx: 83%; cy: 71px; opacity: 0; }
 }
-</style>
-<div class="cloud-container">
-  <div class="sun"></div>
-  <div class="cloud cloud1"></div>
-  <div class="cloud cloud2"></div>
-  <div class="cloud cloud3"></div>
-  <div class="cloud cloud4"></div>
-</div>
-<div class="neural-container">
+HTML (add to your about.md)
+html<div class="neural-container">
   <div class="star star1"></div>
   <div class="star star2"></div>
   <div class="star star3"></div>
@@ -165,29 +158,29 @@ redirect_from:
   <div class="star star9"></div>
   <div class="star star10"></div>
   <svg>
-    <line class="connection-line" x1="12%" y1="30" x2="35%" y2="21" />
-    <line class="connection-line" x1="12%" y1="30" x2="35%" y2="48" />
-    <line class="connection-line" x1="12%" y1="30" x2="35%" y2="75" />
-    <line class="connection-line" x1="12%" y1="60" x2="35%" y2="21" />
-    <line class="connection-line" x1="12%" y1="60" x2="35%" y2="48" />
-    <line class="connection-line" x1="12%" y1="60" x2="35%" y2="75" />
-    <line class="connection-line" x1="12%" y1="60" x2="35%" y2="102" />
-    <line class="connection-line" x1="12%" y1="90" x2="35%" y2="48" />
-    <line class="connection-line" x1="12%" y1="90" x2="35%" y2="75" />
-    <line class="connection-line" x1="12%" y1="90" x2="35%" y2="102" />
-    <line class="connection-line" x1="35%" y1="21" x2="60%" y2="27" />
-    <line class="connection-line" x1="35%" y1="21" x2="60%" y2="57" />
-    <line class="connection-line" x1="35%" y1="48" x2="60%" y2="27" />
-    <line class="connection-line" x1="35%" y1="48" x2="60%" y2="57" />
-    <line class="connection-line" x1="35%" y1="48" x2="60%" y2="87" />
-    <line class="connection-line" x1="35%" y1="75" x2="60%" y2="57" />
-    <line class="connection-line" x1="35%" y1="75" x2="60%" y2="87" />
-    <line class="connection-line" x1="35%" y1="102" x2="60%" y2="87" />
-    <line class="connection-line" x1="60%" y1="27" x2="83%" y2="45" />
-    <line class="connection-line" x1="60%" y1="27" x2="83%" y2="75" />
-    <line class="connection-line" x1="60%" y1="57" x2="83%" y2="45" />
-    <line class="connection-line" x1="60%" y1="57" x2="83%" y2="75" />
-    <line class="connection-line" x1="60%" y1="87" x2="83%" y2="75" />
+    <line class="connection-line" x1="12%" y1="25" x2="35%" y2="18" />
+    <line class="connection-line" x1="12%" y1="25" x2="35%" y2="43" />
+    <line class="connection-line" x1="12%" y1="25" x2="35%" y2="68" />
+    <line class="connection-line" x1="12%" y1="55" x2="35%" y2="18" />
+    <line class="connection-line" x1="12%" y1="55" x2="35%" y2="43" />
+    <line class="connection-line" x1="12%" y1="55" x2="35%" y2="68" />
+    <line class="connection-line" x1="12%" y1="55" x2="35%" y2="93" />
+    <line class="connection-line" x1="12%" y1="85" x2="35%" y2="43" />
+    <line class="connection-line" x1="12%" y1="85" x2="35%" y2="68" />
+    <line class="connection-line" x1="12%" y1="85" x2="35%" y2="93" />
+    <line class="connection-line" x1="35%" y1="18" x2="60%" y2="24" />
+    <line class="connection-line" x1="35%" y1="18" x2="60%" y2="54" />
+    <line class="connection-line" x1="35%" y1="43" x2="60%" y2="24" />
+    <line class="connection-line" x1="35%" y1="43" x2="60%" y2="54" />
+    <line class="connection-line" x1="35%" y1="43" x2="60%" y2="84" />
+    <line class="connection-line" x1="35%" y1="68" x2="60%" y2="54" />
+    <line class="connection-line" x1="35%" y1="68" x2="60%" y2="84" />
+    <line class="connection-line" x1="35%" y1="93" x2="60%" y2="84" />
+    <line class="connection-line" x1="60%" y1="24" x2="83%" y2="41" />
+    <line class="connection-line" x1="60%" y1="24" x2="83%" y2="71" />
+    <line class="connection-line" x1="60%" y1="54" x2="83%" y2="41" />
+    <line class="connection-line" x1="60%" y1="54" x2="83%" y2="71" />
+    <line class="connection-line" x1="60%" y1="84" x2="83%" y2="71" />
     <circle class="signal signal1" />
     <circle class="signal signal2" />
     <circle class="signal signal3" />
@@ -207,7 +200,7 @@ redirect_from:
   <div class="neuron output1"></div>
   <div class="neuron output2"></div>
 </div>
-
+  
 About Me
 ------
 I am a first-year graduate student at the University of Pennsylvania, where I am pursuing a M.S.E. in data science. Currently, I am a research assistant at Penn's [Computational Social Listening Lab](https://csl-lab-upenn.github.io/), under Sharath Chandra Guntuku, PhD. There, I am working with Vivienne Bihe Chi, PhD on a project leveraging machine learning techniques to analyze multimodal primary care visit data and examine provider-patient trust. 
