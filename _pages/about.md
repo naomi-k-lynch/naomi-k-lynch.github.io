@@ -145,8 +145,8 @@ redirect_from:
   90% { opacity: 1; }
   100% { cx: 83%; cy: 71px; opacity: 0; }
 }
-HTML (add to your about.md)
-html<div class="neural-container">
+</style>
+<div class="neural-container">
   <div class="star star1"></div>
   <div class="star star2"></div>
   <div class="star star3"></div>
