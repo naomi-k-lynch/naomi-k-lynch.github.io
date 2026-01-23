@@ -22,6 +22,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Bonus"
+    url: /bonus/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
