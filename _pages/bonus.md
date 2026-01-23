@@ -5,7 +5,7 @@ permalink: /bonus/
 author_profile: true
 ---
 
-Photo Gallery
+Mini Photo Gallery
 ------
 
 Photos I've deemed important enough to share online. Guest appearances made by my wonderful cat, Mara, a recent meal I really loved, and a little thing that's made me happy. And yes, this does get updated periodically.
