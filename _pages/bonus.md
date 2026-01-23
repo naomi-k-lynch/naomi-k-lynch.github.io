@@ -5,11 +5,10 @@ permalink: /bonus/
 author_profile: true
 ---
 
-## Photo Gallery
+Photo Gallery
+------
 
-Some photos I've deemed important enough to share online.
-Guest appearances made by my wonderful cat, Mara, my family's 2 dogs, Gus and Spartacus,
-a recent meal I really loved (this changes, naturally), and a little thing that's made me happy.
+Photos I've deemed important enough to share online. Guest appearances made by my wonderful cat, Mara, something at least semi-intellectual, a recent meal I really loved, and a little thing that's made me happy. And yes, this does get updated periodically.
 
 <style>
 .photo-gallery {
@@ -35,8 +34,8 @@ a recent meal I really loved (this changes, naturally), and a little thing that'
 </style>
 
 <div class="photo-gallery">
-  <img src="/images/cat.jpg" alt="Description 1">
-  <img src="/images/dog.jpg" alt="Description 2">
-  <img src="/images/meal.jpg" alt="Description 3">
-  <img src="/images/object.jpg" alt="Description 4">
+  <img src="/images/cat.jpeg" alt="Description 1">
+  <img src="/images/smart.jpeg" alt="Description 2">
+  <img src="/images/meal.jpeg" alt="Description 3">
+  <img src="/images/thing.jpeg" alt="Description 4">
 </div>
